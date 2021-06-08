@@ -1,0 +1,101 @@
+round,team,player,operator,kills,deaths,trade,objective,site,side,win
+1,WSU,CodingPenguin1,Zofia,0,1,0,0,Kitchen,attack,1
+1,WSU,IchorousEagle,Capitao,0,0,0,0,Kitchen,attack,1
+1,WSU,JoshuaMcDogle,Nomad,1,0,0,0,Kitchen,attack,1
+1,WSU,Riek-_-,Sledge,4,0,0,0,Kitchen,attack,1
+1,WSU,ShadewMane,Ash,0,0,0,0,Kitchen,attack,1
+1,Drexel Blue,DC.DU,Mute,1,1,0,0,Kitchen,defense,0
+1,Drexel Blue,GlucosGuardian,Melusi,0,1,0,0,Kitchen,defense,0
+1,Drexel Blue,Ryfyguy.DU,Jager,0,1,0,0,Kitchen,defense,0
+1,Drexel Blue,Shadow.DU,Aruni,0,1,0,0,Kitchen,defense,0
+1,Drexel Blue,xX55diegoXx.DU,Kaid,0,1,0,0,Kitchen,defense,0
+2,WSU,CodingPenguin1,Zofia,0,1,0,0,Reading/Dining,attack,0
+2,WSU,IchorousEagle,Capitao,0,1,0,0,Reading/Dining,attack,0
+2,WSU,JoshuaMcDogle,Nomad,0,1,0,0,Reading/Dining,attack,0
+2,WSU,Riek-_-,Sledge,0,1,0,0,Reading/Dining,attack,0
+2,WSU,ShadewMane,Ash,0,1,0,0,Reading/Dining,attack,0
+2,Drexel Blue,DC.DU,Mute,0,0,0,0,Reading/Dining,defense,1
+2,Drexel Blue,GlucosGuardian,Goyo,0,0,0,0,Reading/Dining,defense,1
+2,Drexel Blue,Ryfyguy.DU,Jager,0,0,0,0,Reading/Dining,defense,1
+2,Drexel Blue,Shadow.DU,Frost,3,0,0,0,Reading/Dining,defense,1
+2,Drexel Blue,xX55diegoXx.DU,Kaid,2,0,0,0,Reading/Dining,defense,1
+3,WSU,CodingPenguin1,Zofia,0,1,0,0,Kitchen,attack,0
+3,WSU,IchorousEagle,Capitao,1,1,0,0,Kitchen,attack,0
+3,WSU,JoshuaMcDogle,Nomad,0,1,1,0,Kitchen,attack,0
+3,WSU,Riek-_-,Sledge,1,1,1,0,Kitchen,attack,0
+3,WSU,ShadewMane,Ash,1,1,0,0,Kitchen,attack,0
+3,Drexel Blue,DC.DU,Mute,0,0,0,0,Kitchen,defense,1
+3,Drexel Blue,GlucosGuardian,Wamai,1,0,0,0,Kitchen,defense,1
+3,Drexel Blue,Ryfyguy.DU,Jager,3,1,0,0,Kitchen,defense,1
+3,Drexel Blue,Shadow.DU,Vigil,0,1,0,0,Kitchen,defense,1
+3,Drexel Blue,xX55diegoXx.DU,Kaid,1,1,1,0,Kitchen,defense,1
+4,WSU,CodingPenguin1,Zofia,1,1,0,0,Bar/Cocktail,attack,1
+4,WSU,IchorousEagle,Capitao,1,0,0,0,Bar/Cocktail,attack,1
+4,WSU,JoshuaMcDogle,Nomad,0,1,0,0,Bar/Cocktail,attack,1
+4,WSU,Riek-_-,Sledge,0,1,0,0,Bar/Cocktail,attack,1
+4,WSU,ShadewMane,Ash,3,0,0,0,Bar/Cocktail,attack,1
+4,Drexel Blue,DC.DU,Mute,1,1,0,0,Bar/Cocktail,defense,0
+4,Drexel Blue,GlucosGuardian,Goyo,1,1,0,0,Bar/Cocktail,defense,0
+4,Drexel Blue,Ryfyguy.DU,Jager,0,1,0,0,Bar/Cocktail,defense,0
+4,Drexel Blue,Shadow.DU,Frost,0,1,0,0,Bar/Cocktail,defense,0
+4,Drexel Blue,xX55diegoXx.DU,Kaid,1,1,0,0,Bar/Cocktail,defense,0
+5,WSU,CodingPenguin1,Zofia,2,1,0,0,Reading/Dining,attack,1
+5,WSU,IchorousEagle,Capitao,1,1,0,1,Reading/Dining,attack,1
+5,WSU,JoshuaMcDogle,Nomad,0,1,0,0,Reading/Dining,attack,1
+5,WSU,Riek-_-,Buck,2,0,0,0,Reading/Dining,attack,1
+5,WSU,ShadewMane,Ash,0,1,1,0,Reading/Dining,attack,1
+5,Drexel Blue,DC.DU,Smoke,2,1,0,0,Reading/Dining,defense,0
+5,Drexel Blue,GlucosGuardian,Goyo,0,1,0,0,Reading/Dining,defense,0
+5,Drexel Blue,Ryfyguy.DU,Jager,0,1,0,0,Reading/Dining,defense,0
+5,Drexel Blue,Shadow.DU,Valk,1,1,1,0,Reading/Dining,defense,0
+5,Drexel Blue,xX55diegoXx.DU,Mozzie,1,1,1,0,Reading/Dining,defense,0
+6,WSU,CodingPenguin1,Zofia,2,0,0,0,Kitchen,attack,1
+6,WSU,IchorousEagle,Capitao,1,0,0,0,Kitchen,attack,1
+6,WSU,JoshuaMcDogle,Nomad,0,0,0,0,Kitchen,attack,1
+6,WSU,Riek-_-,Buck,2,0,0,0,Kitchen,attack,1
+6,WSU,ShadewMane,Ash,0,0,0,0,Kitchen,attack,1
+6,Drexel Blue,DC.DU,Mute,0,1,0,0,Kitchen,defense,0
+6,Drexel Blue,GlucosGuardian,Wamai,0,1,0,0,Kitchen,defense,0
+6,Drexel Blue,Ryfyguy.DU,Jager,0,1,0,0,Kitchen,defense,0
+6,Drexel Blue,Shadow.DU,Valk,0,1,0,0,Kitchen,defense,0
+6,Drexel Blue,xX55diegoXx.DU,Kaid,0,1,0,0,Kitchen,defense,0
+7,WSU,CodingPenguin1,Warden,0,1,1,1,Bar/Cocktail,defense,1
+7,WSU,IchorousEagle,Smoke,1,0,0,0,Bar/Cocktail,defense,1
+7,WSU,JoshuaMcDogle,Castle,1,0,0,0,Bar/Cocktail,defense,1
+7,WSU,Riek-_-,Jager,2,1,0,0,Bar/Cocktail,defense,1
+7,WSU,ShadewMane,Wamai,1,0,0,0,Bar/Cocktail,defense,1
+7,Drexel Blue,DC.DU,Ace,1,1,0,0,Bar/Cocktail,attack,0
+7,Drexel Blue,GlucosGuardian,Iq,0,1,0,0,Bar/Cocktail,attack,0
+7,Drexel Blue,Ryfyguy.DU,Ash,1,1,0,0,Bar/Cocktail,attack,0
+7,Drexel Blue,Shadow.DU,Buck,0,1,0,0,Bar/Cocktail,attack,0
+7,Drexel Blue,xX55diegoXx.DU,Nomad,0,1,0,0,Bar/Cocktail,attack,0
+8,WSU,CodingPenguin1,Lesion,2,0,0,0,Kitchen,defense,1
+8,WSU,IchorousEagle,Mute,0,0,0,0,Kitchen,defense,1
+8,WSU,JoshuaMcDogle,Aruni,0,1,0,0,Kitchen,defense,1
+8,WSU,Riek-_-,Kaid,0,0,0,0,Kitchen,defense,1
+8,WSU,ShadewMane,Melusi,1,1,1,0,Kitchen,defense,1
+8,Drexel Blue,DC.DU,Ace,1,1,0,0,Kitchen,attack,0
+8,Drexel Blue,GlucosGuardian,Flores,0,1,1,0,Kitchen,attack,0
+8,Drexel Blue,Ryfyguy.DU,Zofia,0,0,0,0,Kitchen,attack,0
+8,Drexel Blue,Shadow.DU,Buck,1,1,0,0,Kitchen,attack,0
+8,Drexel Blue,xX55diegoXx.DU,Sledge,0,0,0,0,Kitchen,attack,0
+9,WSU,CodingPenguin1,Jager,0,1,0,0,Reading/Dining,defense,0
+9,WSU,IchorousEagle,Mute,1,1,0,0,Reading/Dining,defense,0
+9,WSU,JoshuaMcDogle,Castle,0,1,0,0,Reading/Dining,defense,0
+9,WSU,Riek-_-,Kaid,0,1,0,0,Reading/Dining,defense,0
+9,WSU,ShadewMane,Goyo,0,1,0,0,Reading/Dining,defense,0
+9,Drexel Blue,DC.DU,Ace,0,0,0,1,Reading/Dining,attack,1
+9,Drexel Blue,GlucosGuardian,Iq,3,0,0,0,Reading/Dining,attack,1
+9,Drexel Blue,Ryfyguy.DU,Zofia,2,0,0,0,Reading/Dining,attack,1
+9,Drexel Blue,Shadow.DU,Buck,0,0,0,0,Reading/Dining,attack,1
+9,Drexel Blue,xX55diegoXx.DU,Sledge,0,1,0,0,Reading/Dining,attack,1
+10,WSU,CodingPenguin1,Warden,1,1,0,0,Bar/Cocktail,defense,1
+10,WSU,IchorousEagle,Wamai,1,0,0,0,Bar/Cocktail,defense,1
+10,WSU,JoshuaMcDogle,Castle,0,1,0,0,Bar/Cocktail,defense,1
+10,WSU,Riek-_-,Riek,0,1,0,0,Bar/Cocktail,defense,1
+10,WSU,ShadewMane,Mozzie,3,1,0,0,Bar/Cocktail,defense,1
+10,Drexel Blue,DC.DU,Ace,3,1,0,0,Bar/Cocktail,attack,0
+10,Drexel Blue,GlucosGuardian,Flores,1,1,1,0,Bar/Cocktail,attack,0
+10,Drexel Blue,Ryfyguy.DU,Zofia,0,1,0,0,Bar/Cocktail,attack,0
+10,Drexel Blue,Shadow.DU,Buck,0,1,0,0,Bar/Cocktail,attack,0
+10,Drexel Blue,xX55diegoXx.DU,Sledge,0,1,0,0,Bar/Cocktail,attack,0
